@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/NimAI/Link.cpp
+Link.h
+D:/NimAI/Link.h
+
+D:/NimAI/Link.h
+
+D:/NimAI/Log.h
+string
+-
+
+D:/NimAI/Node.cpp
+Node.h
+D:/NimAI/Node.h
+math.h
+-
+
+D:/NimAI/Node.h
+
+D:/NimAI/main.cpp
+iostream
+-
+Node.h
+D:/NimAI/Node.h
+Link.h
+D:/NimAI/Link.h
+Log.h
+D:/NimAI/Log.h
+
